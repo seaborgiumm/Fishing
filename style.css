@@ -1,0 +1,36 @@
+body {
+    font-family: "sans-serif";
+    background: cornsilk;
+    margin: 25px;
+}
+h1 {
+    background-color: darkgray;
+    padding: 25px;
+    border-radius: 2em;
+}
+p { background-color: darkgray;
+    padding: 25px;
+    border-radius: 2em;
+    font-style: italic;
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+ul {
+    margin-left: 15%;
+    font-weight: bold;
+    color: darkslategray;
+}
+li {
+    margin-bottom: 5px;
+
+}
+hr{
+    max-width: 80%;
+    background-color: dimgrey;
+    height: 2px;
+}
+img{
+    max-width:100%;
+    border-radius: 15px;
+    margin-bottom: 25px;
+}
